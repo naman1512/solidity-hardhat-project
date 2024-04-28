@@ -1,4 +1,4 @@
-# Hardhat olidity Project
+# Hardhat Solidity Project
 
 USe with `contracts`, `tests`, `scripts` and `frontend` directories.
 
